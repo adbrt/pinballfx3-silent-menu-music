@@ -1,4 +1,4 @@
-# pinballfx3-silent-menu-music
+# PinballFX 3 Menu Music Silencer / Sound file remapper
 Script for silencing and/or remapping menu music in Pinball FX3
 
 # How to use it
